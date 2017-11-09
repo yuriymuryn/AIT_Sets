@@ -1,0 +1,7 @@
+Alergologia – dziedzina medycyny zajmująca się rozpoznawaniem i leczeniem schorzeń alergicznych.
+
+ASCII (czyt. "aski; "ang. "American Standard Code for Information Interchange") – 7-bitowy kod przyporządkowujący liczby z zakresu 0−127: literom alfabetu angielskiego, cyfrom, znakom przestankowym i innym symbolom oraz poleceniom sterującym. Na przykład litera „a” jest kodowana jako liczba 97, a znak spacji jest kodowany jako 32.
+Znaki ASCII dzielą się na :
+Litery, cyfry, znaki interpunkcyjne oraz kilka innych znaków (spacja, @) tworzą zbiór drukowalnych znaków ASCII. Pozostałe 33 kody to tzw. kody sterujące służące do kontroli urządzenia odbierającego komunikat, np. drukarki czy terminala.
+Ponieważ kod ASCII jest 7-bitowy, a większość komputerów operuje na 8-bitowych bajtach, dodatkowy bit można wykorzystać na powiększenie zbioru kodowanych znaków do 256 symboli. Powstało wiele różnych rozszerzeń ASCII wykorzystujących ósmy bit (np. norma ISO 8859, rozszerzenia firm IBM lub Microsoft) nazywanych stronami kodowymi. Również kodowanie UTF-8 można uważać za rozszerzenie ASCII, tutaj jednak dodatkowe znaki są kodowane na 2 i więcej bajtach.
+

@@ -1,0 +1,10 @@
+Anarchia ( – "bez władcy") – forma struktury społeczno-politycznej, w której nie ma żadnej ukonstytuowanej władzy.
+W rozumieniu politycznym (w anarchizmie) to taka struktura, w której państwo zostaje zastąpione przez nieprzymusową i niescentralizowaną organizację społeczeństwa (np. federację autonomicznych miejscowości).
+W rozumieniu potocznym anarchia to pojęcie określające:
+
+ASN.1 (skrót od "Abstract Syntax Notation One" - abstrakcyjna notacja składniowa numer jeden) jest to standard służący do opisu struktur przeznaczonych do reprezentacji, kodowania, transmisji i dekodowania danych. Dostarcza zbiór formalnych zasad pozwalających na opis struktur obiektów w sposób niezależny od konkretnych rozwiązań sprzętowych.
+Jest to standard ITU-T/ISO, po raz pierwszy został opisany w roku 1984 jako część dokumentu CCITT X.409'84. Następnie w 1988 wydano go jako samodzielny dokument ITU-T X.208. W roku 1994 wydano jego nową wersję w dokumentach ITU-T z serii X.680 (X.680-X.683). W roku 2002 wycofano dokument ITU-T X.208.
+Standard ASN.1 określa jedynie składnię abstrakcyjną informacji, nie określa natomiast sposobu jej kodowania w pliku. Metody kodowania informacji podanych w składni ASN.1 zostały opisane w kolejnych standardach ITU-T/ISO.
+Podstawowe metody kodowania:
+ASN.1 jest wykorzystywana w wielu dokumentach ITU-T w tym w serii X.400 (poczta), w serii X.500 (usługi katalogowe).
+

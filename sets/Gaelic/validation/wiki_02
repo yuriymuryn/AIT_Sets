@@ -1,0 +1,78 @@
+STOP! Sula ndéanann tú uaslódáil anseo,
+bí cinnte go léann tú an atá ag Vicipéid agus go nglacann tú leis.
+Má tá comhad ann cheana leis an ainm céanna leis an gcomhad nua, cuirfear an comhad nua in áit an seanchomhaid gan fógra. Mar sin, is fiú féachaint an bhfuil comhad leis an ainm céanna ann cheana féin.
+Le breathnú nó cuardach a dhéanamh ar íomhánna a uaslódáladh cheana féin, téigh go dtí an uaslódáilte. Liostáiltear na comhaid a uaslódáladh agus a scriosadh ar an .
+Bain úsáid as an bhfoirm thíos chun íomhá nó comhad nua a uaslódáil. Is féidir leat na híomhánna a úsáid i do chuid alt. Ar an gcuid is mó de na brabhsálaithe, feicfidh tú cnaipe "Brabhsáil..." nó rud éigin mar sin. Nuair a bhrúnn tú ar an gcnaipe seo, osclófar bosca dialóige a ligeann duit an comhad atá le huaslódáil a roghnú. Nuair a roghnaíonn tú comhad, líonfar ainm an chomhaid sa téacsbhosca in aice leis an gcnaipe.
+Is gá dearbhú nach bhfuil tú ag sárú aon chóipcheart leis an uaslódáil seo trí chliceáil sa bhosca beag.
+Cliceáil ar an gcnaipe "Uaslódáil comhad" chun an uaslódáil a chríochnú. Muna bhfuil nasc Idirlín tapaidh agat, d'fhéadfadh sé seo roinnt ama a thógáil.
+Is iad na formáidí inmholta ná JPEG d'íomhánna fótaghrafacha, PNG do líníochtaí agus léaráidí, agus OGG d'fhuaimeanna. Ainmnigh do chuid comhad i mbealach ciallmhar a thugann barúil faoi inneachar na gcomhad - le cabhrú le húsáideoirí eile. Le íomhá a chur in alt, úsáid nasc mar seo:
+nó téacs eile,
+nó :comhad.ogg d'fhuaimeanna.
+Is féidir le húsáideoirí eile do chuid comhad uaslódáilte a athrú nó a scriosadh, má shíltear go bhfuil sé seo chun leasa na ciclipéide. Má bhaintear mí-úsáid as an gcóras seo d'fhéadfaí úsáideoir a chosc.
+
+Staidreamh úsáideora
+
+Tá $1 úsáideoirí­ cláraithe ann.
+Is iad $2 de na úsáideoirí­ seo ina riarthóirí­ (féach ar ).
+
+Tá tú ag faire ar $1 leathanach, gan leathanaigh phlé a chur san áireamh.
+
+Tá na leathanaigh seo ar do liosta faire in ord aibitreach.
+Más mian leat leathanaigh a bhaint amach ón liosta, marcáil na boscaí a ghabhann leo agus gliogáil ar an gcnaipe ag bun an leathanaigh.
+
+Seo eagrán sábháilte den liosta faire atá agat
+
+Paraiméadair mhíchearta don wfQuery()<br>
+Feidhm: $1<br>
+Iarratas: $2
+
+Do ríomhsheoladh (roghnach)*
+
+Is vici ("WikiWiki") í an Vicipéid. Is é an bhrí atá leis sin go bhfuil cead ag gach duine leathanach a chumadh nó a fheabhsú, agus go gcuirtear ar taispeáint láithreach aon athrú a dhéantar. Cuireann an leathanach seo síos ar an scríobhchód mearshuímh. B'fhéidir gur mian leat tuilleadh a fhoghlaim faoi na rudaí a leanas:
+Tá sé an-éasca leathanach mearshuímh a chur in eagar. Lean an nasc "Cuir in eagar" ag barr an ailt. Osclaíonn leathanach agus leagan so-athraithe den téacs ann. 
+Clóscríobh d'alt, achoimrigh sa bhosca beag thíos, agus cliceáil ar "Sábháil"! Is féidir leat réamhamharc a fháil ar do chuid athruithe.
+Bí neamhchlaonta agus tú ag scríobh, agus chun go bhféadfadh daoine eile d'alt a sheiceáil agus cur leis.
+Is minic is fusa an téacs a chóipeáil ar phróiseálaí focal, athruithe a dhéanamh ann agus an litriú a sheiceáil, agus é a chóipeáil arís ar do bhrabhsálaí chun réamhamharc a fháil air.
+Is féidir athrach cló a dhéanamh le húsáid na n-uaschamóg ( ' ).
+(Ní dhéanann ceithre uaschamóg faic.)
+Is cóir duit do chuid tuairimí a "shíneáil" ar na leathanaigh phléite trí roinnt tildí ( ~ ) a bhreacadh ag deireadh na teachtaireachta: 
+Is féidir leis an mbogearra Vicí clár ábhair a chumadh uaidh féin as na mírchinn.
+Is féidir fomhír a chumadh trí shíní cothroime ( = ) a chur ar gach taobh d'abairt nó d'fhocal: 
+( == ): Litreacha móra.
+( ==== ): Litreacha measartha mór.
+Déantar eangú má chuirtear idirstad ( : ) roimh líne nó roimh pharagraf. Úsáidtear idirstad amháin le haghaidh eangú amháin, dhá idirstad le haghaidh dhá eangú agus mar sin de. 
+Má chruthaítear nasc le leathanach nach bhfuil ann (fós) beidh an nasc sin dearg: An Cat Glas. Is féidir an leathanach úd a chruthú trí chliceáil ar an nasc; nochtfaidh leathanach folamh agus is féidir leat alt a scríobh ann. 
+Más mian leat an córas a thástáil gan dochar a dhéanamh, is féidir leat é a dhéanamh ar an g
+Má theastaíonn uait liosta a chruthú, cuir * roimh gach mír sa liosta.
+Má theastaíonn uait liosta le huimhreacha a chruthú, cuir # roimh gach mír sa liosta.
+Má theastaíonn uait líne a chruthú, scríobh: ----.
+Má theastaíonn uait nasc a chruthú, cuir timpeall an fhocail.
+Má tá tú ag iarraidh nasc a cheangal le teideal ailt trí fhocal atá difriúil leis, scríobh an teideal idir lúibíní cearnacha dúbailte ([[) agus líne ingearach ( | ); ansin scríobh an focal agus cuir lúibíní cearnacha ina dhiaidh. 
+Má tá nasc eile ón Vicipéid á chruthú agat, cuir [[:cód teanga:teideal an ailt]] ar an leathanach.
+Má theastaíonn uait nasc Idirlín a chruthú, scríobh an seoladh iomlán leis an http:// ag an tús.
+Má theastaíonn uait nasc Idirlín a chruthú ach níor mhaith leat an URL a léiriú, cuir [ ] thimpeall an tseolaidh.
+[[Rang:Vicipéid]]
+
+Is Vicipéideoirí iad na daoine a scríobhann ailt agus a chuireann ailt in eagar do Vicipéid.
+Seo liosta daoine a chuir a n-ainmneacha ar an liosta seo. Níl aon riachtanas do leathanach pearsanta Vicipéideora; cuireann roinnt daoine beathaisnéisí suas, ní chuireann daoine eile; cuireann roinnt daoine liostaí príobháideacha a gcuid oibre suas, ní chuireann roinnt eile. Liostaí de réir áiteanna agus am a dteachta atá againn ar dtús, agus leanann liosta iomlán é sin. Má chuireann tú d'ainm ar liosta áite, m.sh. , ná déan dearmad d'ainm a chur ar an bpríomhliosta.
+"do liosta iomlán na n-úsáideoirí cláraithe ar fad, féach ar "
+Más é do thoil é cuir d'ainm ar na liostaí seo de réir náisiúntachta agus de réir d'áit chónaithe faoi láthair! Mar shampla, má tá Seán tar éis aistriú ó Éire go dtí na Stáit Aontaithe, is féidir leis a ainm a chur ar an dá liosta le chéile (más mian leis).
+Mura bhfuil do thír sa liosta seo thuas, cuir leis í!
+"Tá an liosta seo deonach, ní chaithfidh tú d'ainm a chur síos."
+An bhfuil sibh cinnte de sin? M
+
+"This page is under Contribution."
+Féach ar (i mBéarla).
+Screenshots: (Meta-wikipedia)
+
+Is bunachar sonraí téarmaíochta an Aontais Eorpaigh (AE) é Eurodicautom. Tá comhéadain ann ar an Idirlíon atá ina bhealaí chuig an seirbhís saor in aisce seo, agus leis an gcóras seo is féidir leis na húdaráis foclóir an AE a aistriú idir na teangacha oifigiúla.
+
+Tá fáilte romhat go Vicipéid, ciclipéid shaor atá á comhscríobh faoi láthair ar an suíomh seo. Is féidir le duine ar bith, tusa san áireamh, alt ar bith a chur in eagar anois díreach - níl le déanamh agat ach brú ar an nasc athraigh an lch seo atá ar fáil ag barr gach leathanaigh na Vicipéide.
+Cuireadh tús leis an tionscadal in Eanáir, 2001, agus cruthaíodh an t-eagrán Gaeilge ar 7 Meitheamh, 2003 .
+Tá gach uile alt sa suíomh seo faoi chosaint an "Cheadúnais GNU do Dhoiciméadú Saor"). Mar sin, beifear in ann teacht orthu go deo gan bhac. Tá súil againn go mbainfidh tú taitneamh as úsáid na háise saoire tairbhí seo.
+Is féidir le duine ar bith alt a scríobh nó a athrú. Bí dána maidir le do chuid athruithe! Ach tá roinnt ann chun obair éifeachtach a chinntiú. Caithfidh gach duine ailt a scríobh le ; mar sin, tá gach alt - fiú na cinn a bhaineann le hábhair chonspóideacha - neamhchlaonta agus neamhúsáideach mar stáitse do dhearcadh ar bith.
+Tá sé inmholta cuntas a chruthú duit féin: téigh go dti .
+Má tá aon cheist agat, téigh go dtí an agus cuir í!
+Bain sult as!
+
+

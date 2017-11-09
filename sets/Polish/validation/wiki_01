@@ -1,0 +1,56 @@
+AWK – interpretowany język programowania, którego główną funkcją jest wyszukiwanie i przetwarzanie wzorców w plikach lub strumieniach danych. Jest także nazwą programu początkowo dostępnego dla systemów operacyjnych będących pochodnymi UNIX-a, obecnie także na inne platformy.
+AWK jest językiem, który w znacznym stopniu wykorzystuje tablice asocjacyjne, stringi i wyrażenia regularne. Nazwa języka pochodzi od pierwszych liter nazwisk jego autorów Alfreda V. Aho, Petera Weinbergera i Briana Kernighana i czasami jest zapisywana małymi literami oraz odczytywana jako jedno słowo "awk".
+Definicja języka AWK jest zawarta w POSIX 1003.2 Command Language And Utilities Standard. Wersja ta jest z kolei oparta na opisie z "The AWK Programming Language" napisanym przez Aho, Weinbergera i Kernighana, z dodatkowymi właściwościami zdefiniowanymi w wersji awk z SVR4.
+W wierszu poleceń podaje się opcje dla awk, tekst programu (jeśli nie podano go poprzez opcję codice_1 lub codice_2) i wartości, które mają być udostępnione w predefiniowanych zmiennych codice_3 i codice_4.
+„AWK jest językiem służącym do przetwarzania plików tekstowych. Plik jest traktowany jako ciąg rekordów, przy czym domyślnie rekordem jest każdy wiersz. Każda linia jest podzielona na pola, więc można traktować pierwsze pole linii jako pierwsze słowo, drugie pole jako drugie słowo itd. Program AWK składa się z sekwencji instrukcji wzorzec-akcja. AWK czyta wejście linia po linii. Każda linia jest przeszukiwana pod kątem wzorców występujących w programie i dla każdego pasującego wzorca wykonywana jest akcja z nim skojarzona.” – Alfred V. Aho
+Program AWK składa się z sekwencji instrukcji wzorzec-akcja oraz opcjonalnych definicji funkcji.
+gdzie codice_5 to zwykle jakieś wyrażenie, a codice_6 – lista komend. Wejście dzielone jest na rekordy, domyślnie oddzielone znakiem nowej linii.
+Dla każdego rekordu wejścia awk dokonuje porównania, sprawdzając czy odpowiada on jakiemuś wzorcowi z programu AWK. Jeśli wzorzec będzie odpowiadał rekordowi, zostanie wykonana związana z nim akcja. Wzorce są sprawdzane w kolejności ich pojawienia się w programie. Domyślną akcją jest wypisanie rekordu.
+Na komendy AWK składają się wywołania funkcji, nadawanie wartości zmiennym, obliczenia lub jakaś kombinacja wymienionych zadań. AWK posiada wbudowane wsparcie dla wielu funkcji. Niektóre wersje pozwalają na dynamiczne linkowanie bibliotek, co umożliwia korzystanie z jeszcze większej liczby funkcji.
+Dla uproszczenia nawiasy klamrowe (codice_7) w poniższych przykładach zostaną pominięte.
+Polecenie codice_8 jest używane do wypisywania tekstu. Wyjście jest zawsze zakończone predefiniowanym separatorem rekordów (output record separator (ORS)), który domyślnie jest znakiem nowej linii. Najprostsze zastosowanie polecenia codice_8 to:
+W AWK rekordy rozbijane są na "pola", które można wyświetlić osobno:
+Choć zapis pól (codice_14) może kojarzyć się z zapisem określającym zmienne (jak np. w perlu), to jednak określa pola bieżącego rekordu. Ponadto codice_15 odnosi się do całego rekordu, więc "codice_8" oraz "codice_17" mają takie samo działanie.
+codice_8 pozwala również wyświetlić wynik obliczeń lub wywołania funkcji. Np.
+Wyjście można również przekierować do pliku:
+Lub do innej komendy przez użycie pipe'a:
+Zmienne AWK są dynamiczne — zaczynają istnieć, gdy są po raz pierwszy użyte. Nazwy zmiennych mogą zawierać znaki z zakresu "[A-Za-z0-9_]", lecz nie mogą być słowami kluczowymi. Zmienne oraz pola mogą być liczbami (zmiennoprzecinkowymi), łańcuchami lub jednym i drugim naraz. Interpretacja wartości zmiennej zależy od kontekstu. Jeśli jest użyta w wyrażeniu numerycznym, jest interpretowana jako liczba. Natomiast jeśli jest użyta w wyrażeniu łańcuchowym — jest traktowana jak łańcuch.
+AWK posiada tablice jednowymiarowe. Symulowane mogą być również tablice wielowymiarowe. Podczas działania programu ustawianych jest kilka predefiniowanych zmiennych opisanych niżej.
+Zmienne wbudowane w AWK to m.in. zmienne określające pola: codice_19, codice_20 itd. Zwracają one wartość lub tekst przechowywany aktualnie w określonym polu rekordu. Poza nimi AWK posiada również inne zmienne:
+Tablice są indeksowane wyrażeniem ujętym w nawiasy kwadratowe (codice_21). Jeśli wyrażenie jest listą wyrażeń ("wyrażenie, wyrażenie, ..."), to indeks tablicy jest sklejany z wartości (łańcuchowych) każdego wyrażenia, oddzielonych wartością zmiennej codice_22. Jest tak dlatego, że AWK posiada wyłącznie tablice asocjacyjne, zaś klucze numeryczne pamiętane są jako łańcuchy.
+Symulowanie tablic wielowymiarowych polega na sklejaniu poszczególnych indeksów w unikalny łańcuch. Na przykład:
+i = "A" ; j = "B" ; k = "C"
+x[i, j, k] = "hello, world\n"
+przypisuje łańcuch "hello, world\n" elementowi tablicy codice_23, o indeksie będącym łańcuchem "A\034B\034C".
+Jeśli tablica posiada wielokrotne indeksy, można użyć konstrukcji codice_24. Element można skasować z tablicy przy użyciu polecenia codice_25. Poleceniem codice_25 można się też posłużyć do skasowania całej zawartości tablicy, przez podanie jej nazwy bez indeksu.
+Funkcje są wykonywane po wywołaniu ich z wyrażeń występujących we wzorcach lub akcjach. Definicja funkcji składa się ze słowa kluczowego codice_27, jej nazwy, argumentów i ciała. Poniżej znajduje się przykład funkcji:
+function dodaj_siedem (liczba) {
+Tę funkcję można wywołać w następujący sposób:
+print dodaj_siedem(51) # zwraca 58
+Między nazwą funkcji, a nawiasem otwierającym można wstawić spację jedynie podczas jej deklaracji – w wywołaniu nawias musi stać bezpośrednio po nazwie funkcji. Ma to na celu zapobieżenie niejednoznaczności składni z operatorem konkatenacji (łączenia). Ograniczenie to nie odnosi się do funkcji wbudowanych.
+Funkcje mogą posiadać zmienne lokalne. Ich nazwy dodawane są na końcu listy argumentów w definicji funkcji. Jednak ich wartości powinno się pomijać wywołując daną funkcję. Zazwyczaj przed deklaracją zmiennych lokalnych dodaje się kilka białych znaków, by wskazać miejsce, w którym kończą się argumenty funkcji i zaczynają zmienne lokalne.
+Zamiast słowa codice_27 można używać słowa codice_29.
+Operatory w AWK, w kolejności malejącego priorytetu, to:
+Tekst programu czytany jest tak, jakby wszystkie pliki programu zostały połączone ze sobą w całość, przy czym pierwszeństwo mają pliki podane jako argumenty polecenia. Przydaje się to do budowania bibliotek funkcji AWK, bez konieczności włączania ich do każdego nowego programu AWK, który z nich korzysta. Umożliwia to również łączenie funkcji bibliotecznych z programami z wiersza poleceń. Zmienna środowiskowa codice_30 określa ścieżkę przeszukiwania, używaną do znajdowania plików źródłowych podanych w opcji codice_1. Jeśli zmienna ta nie istnieje, domyślną ścieżką staje się codice_32. (Faktyczny katalog może być różny, zależnie od tego jak skompilowano i zainstalowano awk). Jeśli nazwa pliku, podana opcji codice_1 zawiera znak codice_34, nie jest dokonywane żadne przeszukiwanie ścieżki.
+Program AWK wykonywany jest w następującej kolejności:
+Z poziomu wiersza poleceń można także ustawić wartość zmiennej, podając zamiast nazwy pliku ciąg codice_38. Ten sposób inicjalizowania zmiennych najbardziej przydaje się do dynamicznego nadawania wartości zmiennym, których AWK używa do określania sposobu, w jaki wejście rozbijane jest na pola i rekordy. Jest też użyteczny do kontroli stanu, jeśli zachodzi potrzeba wielokrotnego czytania danego pliku danych. Jeśli wartość konkretnego elementu codice_4 jest pusta (""), to awk ją pomija.
+Poniżej znajduje się przykład programu "Hello world" napisanego w AWK:
+Niekoniecznie trzeba w tym wypadku pisać na końcu codice_40. Jedynym wzorcem jest codice_36, więc żadne argumenty z linii komend nie są przetwarzane.
+W niektórych wersjach AWK i niektórych krajach dodanie znaku "”_“" przed łańcuchem znaków wypisze go w języku narodowym. Np.
+we Francji może wypisać "bonjour, monde!".
+length($0) > 80
+Program liczy liczbę słów na wejściu i wypisuje liczbę słów, linii i znaków podanych na wejściu (podobnie jak wc).
+Ze względu na brak wzorca w pierwszej linii programu akcja jest wykonywana dla każdego wiersza wejścia.
+codice_42 jest zwiększane o numer ostatniego słowa w każdym rekordzie.
+Na końcu wejścia wzorzec codice_43 pasuje, więc codice_42 jest wypisywane. Jednak wejście może nie zawierać ani jednej linii. Wtedy, jako że zmiennej codice_42 nie została nadana żadna wartość, będzie to pusty ciąg. Dodanie zera na końcu przy wypisywaniu codice_42 wymusza traktowanie zmiennej tak, jakby zawierała ona liczbę. Dzięki temu nawet, gdy codice_42 jest pustym ciągiem na wyjściu nie będzie pustej linii, lecz codice_48.
+ $ yes Wikipedia | awk 'NR % 4 == 1, NR % 4 == 3 { printf "%6d %s\n", NR, $0 }' | sed 7q
+Tutaj komenda yes wypisuje słowo „Wikipedia” tak długo, aż sed wykryje, że zostało wypisanych 7 linii. Dalsza część polecenia wypisuje każdą z linii poprzedzoną jej numerem. Wypisywane są tylko linie, których numery dają resztę z dzielenia przez 4 o wartościach od 1 do 3.
+Program używa tablicy asocjacyjnej:
+BEGIN {
+END {
+Blok codice_36 ustawia separator pola na dowolny znak nie będący literą. Warto zauważyć, że separatory mogą być też wyrażeniami regularnymi.
+Następnie następuje akcja wykonywana na każdej linii wejścia: dla każdego pola linii zwiększana jest liczba razy, jaką to słowo (uprzednio zamienione na małe litery) wystąpiło. Na końcu wypisywane są wszystkie słowa wraz z częstotliwościami występowania.
+Podobnie jak wiele innych języków skrypt AWK można napisać poprzedzając go znakiem "shebang". Dla przykładu komendę codice_50 wypisującą "Hello, world!" można napisać tworząc plik o nazwie codice_50 zawierający następujące linijki:
+BEGIN { print "Hello, world!" }
+Opcja codice_1 informuje awk, że następny argument to plik, z którego należy przeczytać program. Jest on tam umieszczany przez powłokę podczas działania.
+

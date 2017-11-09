@@ -1,0 +1,1 @@
+﻿Adobe AIR is a runtime environment that allows Adobe Flash content and ActionScript 3.0 coders to construct applications and video games 

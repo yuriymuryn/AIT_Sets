@@ -1,0 +1,36 @@
+Alkany ("parafiny", z = mało powinowaty) – łańcuchowe węglowodory nasycone, organiczne związki chemiczne zbudowane wyłącznie z atomów węgla i wodoru, przy czym atomy węgla połączone są ze sobą wyłącznie wiązaniami pojedynczymi. Ogólny wzór sumaryczny alkanów ma postać .
+Według obowiązującej systematyki IUPAC węglowe łańcuchy atomów w cząsteczkach alkanów mogą być zarówno proste, jak i rozgałęzione, jednak nie mogą tworzyć pierścieni ani zamkniętych pętli – cykloalkany nie są zatem alkanami. 
+Grupa alkanów uszeregowana według długości łańcuchów węglowych stanowi szereg homologiczny alkanów. Dalsze elementy tego szeregu określane są jako wyższe alkany (według różnych kryteriów jako wyższe alkany przyjmuje się np. homologi o łańcuchu >C, >C lub >C).
+Alkany zawierające więcej niż trzy atomy węgla mogą tworzyć wiele izomerów konstytucyjnych różniących się rozgałęzieniami łańcuchów węglowych.
+Atomy węgla tworzą jeden nierozgałęziony łańcuch, na którego obydwu końcach znajdują się grupy metylowe.
+Ze względu na możliwość rotacji wokół pojedynczych wiązań C−C, związki te mogą tworzyć izomery konformacyjne. Najniższą energię, a co za tym idzie, najwyższą trwałość mają konfromery, w których wiązania znajdują się w układzie naprzemianległym, a atomy węgla znajdują się w pozycjach antiperipalanarnych (trans). W warunkach normalnych zmiany konformacji alkanów następują bardzo szybko i nie można wyizolować poszczególnych konformerów.
+Przykładowe konformacje naprzemianległe "n"-pentanu (deskryptory określają kąt torsyjny dla atomów i ):
+Co najmniej jeden z atomów węgla jest związany z więcej niż dwoma innymi atomami węgla, cała cząsteczka zawiera więcej niż dwie grupy metylowe.
+Przykłady dla pięciu atomów węgla – rozgałęzione izomery konstytucyjne pentanu:
+Liczba istniejących izomerów konstytucyjnych węglowodorów o łańcuchach rozgałęzionych rośnie bardzo szybko wraz z liczbą atomów węgla tworzących cząsteczkę. W powyższym przykładzie alkanów zawierających 5 atomów węgla, są to 3 izomery: "n"-pentan, izopentan i neopentan. Proste obliczenia kombinatoryczne (stabelaryzowane w OEIS) pozwalają wyznaczyć teoretyczną liczbę takich izomerów konstytucyjnych dla dowolnej liczby atomów węgla. Przykładowo:
+W praktyce część izomerów jest jednak niestabilna.
+Zgodnie z systematyką IUPAC, cząsteczki zawierające łańcuchy cykliczne (cykloalkany, nazywane czasem "alkanami cyklicznymi") formalnie nie należą do alkanów.
+Alkany są słabo rozpuszczalne w wodzie (rozpuszczalność rzędu kilkudziesięciu miligramów na litr), rozpuszczają się w rozpuszczalnikach organicznych. Są mało reaktywne ze względu na dużą trwałość wiązań i . Podobne właściwości do alkanów mają również cykloalkany (z wyjątkiem cyklopropanu i cyklobutanu, które są nietrwałe z powodu silnych naprężeń w małych pierścieniach ich cząsteczek).
+W zależności od temperatury oraz ciśnienia każdy z alkanów może być gazem, cieczą lub ciałem stałym. Temperatury przejść fazowych pomiędzy tymi stanami skupienia dla pierwszych czternastu alkanów o łańcuchach prostych przedstawia rysunek. Jak widać, temperatura wrzenia tych związków rośnie monotonicznie ze wzrostem długości łańcucha (liczby atomów węgla), natomiast temperatura topnienia rośnie monotonicznie począwszy od propanu.
+Spośród alkanów i cykloalkanów o tej samej liczbie atomów węgla, temperatura wrzenia cykloalkanu jest wyższa niż odpowiedniego alkanu liniowego, natomiast temperatury wrzenia alkanów o łańcuchach rozgałęzionych są niższe niż alkanu liniowego. Tę ostatnią regularność można wytłumaczyć zmniejszeniem powierzchni cząsteczek rozgałęzionych w stosunku do liniowych, przez co obniża się liczba oddziaływań międzycząsteczkowych, a więc ich pokonanie staje się możliwe w niższych temperaturach.
+W temperaturze pokojowej (25 °C) alkany liniowe lżejsze od pentanu (tj. zawierające 1–4 atomów węgla) są gazami, dalsze homologi – od pentanu do heptadekanu (5–17 atomów C) są cieczami, a oktadekan i cięższe (≥18 atomów C) są ciałami stałymi.
+Nazwa węglowodory nasycone wynika z faktu pełnego wysycenia atomów węgla wiązaniami pojedynczymi, co odróżnia je od węglowodorów nienasyconych, posiadających wiązania podwójne i/lub potrójne.
+Ze względu na dużą trwałość pojedynczych wiązań i alkany są mało reaktywnymi związkami chemicznymi, a reakcje z ich udziałem wymagają drastycznych warunków (wysokich temperatur i ciśnienień). Generalnie wyróżnia się trzy typy reakcji, którym ulegają alkany:
+Nazwa alkanu składa się z trzech części:
+Etapy nazywania alkanu:
+Przykład: 2,2-dimetylobutan
+
+Alkohole – związki organiczne zawierające jedną lub więcej grup hydroksylowych połączonych z atomem węgla w hybrydyzacji sp. 
+W języku potocznym przez „alkohol” rozumie się zazwyczaj napój alkoholowy.
+Najprostsze i najczęściej spotykane w życiu codziennym alkohole to zawierające jedną grupę hydroksylową w cząsteczce pochodne alkanów o wzorze ogólnym CHOH, czyli alkohole monohydroksylowe, na przykład metylowy, etylowy, propylowy.
+Analogiczne związki organiczne, w których grupa hydroksylowa połączona jest z węglem w hybrydyzacji sp, to fenole (hydroksylowe pochodne benzenu i innych związków aromatycznych) lub enole (hydroksylowe pochodne alkenów).
+Ze względu na obecność silnie elektroujemnego atomu tlenu i związanego z nim atomu wodoru alkohole tworzą wiązania wodorowe, ulegając asocjacji w większe struktury. W efekcie niższe alkohole mają wysokie temperatury wrzenia i małą lotność względem swojej masy:
+Wyższe alkohole mają właściwości fizyczne zbliżone do alkanów o podobnych masach molowych.
+Niższe alkohole doskonale rozpuszczają się w rozpuszczalnikach polarnych (np. w wodzie), natomiast wyższe lepiej rozpuszczają się w rozpuszczalnikach niepolarnych (przeważa część hydrofobowa). Obowiązuje zasada "podobne rozpuszcza się w podobnym".
+Rzędowość alkoholu jest równa rzędowości atomu węgla, z którym połączona jest grupa hydroksylowa.
+Wybrane metody otrzymywania alkoholi:
+Najważniejsze reakcje alkoholi:
+Spośród alkoholi największe znaczenie gospodarcze mają metanol i etanol.
+Nazywanie alkoholi wodorotlenkami jest niepoprawne, ponieważ w wodorotlenkach między grupą -OH a atomem pierwiastka (najczęściej metalu) występuje wiązanie jonowe, natomiast w alkoholach między grupą -OH a atomem węgla występuje wiązanie kowalencyjne.
+Nazwy alkoholi tworzy się poprzez dodanie końcówki -ol z odpowiednim lokantem do nazwy macierzystego związku. Stara nomenklatura polegała na użyciu słowa alkohol i dodaniu nazwy alkilu w formie przymiotnikowej.
+

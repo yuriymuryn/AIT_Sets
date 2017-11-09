@@ -1,0 +1,1 @@
+﻿Magenta es el núcleo del sistema operativo de Google, Google Fuchsia.

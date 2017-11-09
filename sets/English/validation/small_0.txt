@@ -1,0 +1,1 @@
+﻿AIR apps can be augmented in functionality with the usage of AIR Native Extensions (ANEs).

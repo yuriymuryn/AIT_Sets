@@ -1,0 +1,1 @@
+﻿Version 1.0 of the Adobe AIR runtime and SDK was released on February 25, 2008.

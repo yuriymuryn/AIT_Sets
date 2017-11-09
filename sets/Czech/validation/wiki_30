@@ -1,0 +1,30 @@
+Vrh vodorovný je pohyb tělesa v tíhovém poli, při kterém počáteční rychlost tělesa má směr kolmý ke směru tíhového zrychlení.
+Vodorovný vrh je složený pohyb - pohyb vrženého tělesa vodorovným směrem a volný pád tělesa. Vodorovný vrh je speciálním případem šikmého vrhu.
+Pokud vrh probíhá ve vakuu a uvažujeme-li pouze homogenní tíhové pole (např. reálný případ vrhů relativně malou rychlostí v malých výškách nad povrchem astronomických těles bez atmosféry), je trajektorií část paraboly s vrcholem v místě hodu.
+Souřadnice bodu "B", ve kterém se těleso ocitne za dobu "t" 
+Délka vrhu
+Rychlost v okamžiku dopadu
+Čas letu
+kde je formula_6 počáteční rychlost, formula_7 čas, formula_8 výška vrhu a formula_9 tíhové zrychlení.
+
+Vrh šikmý je pohyb tělesa v tíhovém poli, při kterém počáteční rychlost svírá s horizontem nenulový elevační úhel.
+Při kladném elevačním úhlu (0° < "α" < 90°) se jedná o vrh šikmý vzhůru, při záporném (−90° < "α" < 0°) o vrh šikmý dolů (při nulovém elevačním úhlu se jedná o vrh vodorovný).
+Pokud vrh probíhá ve vakuu a uvažujeme-li pouze homogenní tíhové pole (např. reálný případ vrhů relativně malou rychlostí v malých výškách nad povrchem astronomických těles bez atmosféry), pohybuje se těleso po parabole, ve vzduchu (tzn. s nezanedbatelným odporem vzduchu) po tzv. balistické křivce.
+Předpokládejme, že těleso má počáteční rychlost "v" svírající s vodorovným směrem elevační úhel "α". Následný pohyb (ve vakuu, resp. při zanedbání odporu vzduchu) se skládá z rovnoměrného přímočarého pohybu touto rychlostí v původním směru (tímto směrem položíme osu "x") a z volného pádu (tedy rovnoměrně zrychleného pohybu) ve směru tíhového zrychlení "g", který lze ztotožnit s pohybem ve směru osy "y". Ve směru osy "z" tedy pohyb neprobíhá (trajektorií tedy bude rovinná křivka).
+Proto platí:
+Vyloučením času formula_3 a přesunem počátku soustavy souřadnic do bodu formula_4 získáme rovnici trajektorie šikmého vrhu:
+Pro vrh šikmý vzhůru lze z této rovnice určit maximální dosaženou výšku:
+a délku vrhu (tedy vzdálenost, po které těleso klesne do původní výšky), neboli "dostřel":
+Z rovnic vyplývá, že maximální výšky vrhu lze dosáhnout pod úhlem 90° a největšího dostřelu pod úhlem 45°.
+Všechny trajektorie šikmých vrhů stejnou rychlostí formula_12 pod různými elevačními úhly formula_23 vytváří množinu trajektorií, jejichž obálkou je křivka zvaná ochranná parabola. Body za ochrannou parabolou nemohou být při rychlosti vrhu formula_12 zasaženy.
+Rovnici ochranné paraboly lze odvodit z rovnice trajektorie šikmého vrhu. Tu lze upravit do tohoto tvaru:
+Na tuto rovnici lze pohlížet jako na kvadratickou rovnici pro proměnnou formula_26. Body ležící na ochranné parabole mohou být zasaženy pouze pod jedním elevačním úhlem formula_23. Hledáme tedy body, pro které bude mít tato rovnice právě jedno řešení, její diskriminant tedy bude roven nule:
+Po úpravě získáme rovnici ochranné paraboly:
+Při pohybu v prostředí s nezanedbatelným odporem opisuje vržené těleso (projektil) asymetrickou balistickou křivku, u které je délka vrhu kratší než u pohybu při zanedbání odporu vzduchu. Matematické modely závisejí na způsobu popisu sil odporu prostředí.
+Odporové síly také silně závisejí na geometrickém tvaru projektilu. Při nesymetrickém tvaru vzhledem ke směru pohybu je navíc nutno uvažovat příčné silové působení dynamického vztlaku), který souvisí s rozdíly tlaku v prostředí na různých stranách tělesa způsobenými rozdílnou rychlostí obtékání podle Bernoulliovy rovnice.
+Pro případy, kdy sice lze zanedbat odpor prostředí, ale gravitační pole již nelze považovat po celé dráze pohybu za homogenní (tedy vrhy velkou rychlostí nebo ve vzdálenostech srovnatelných s rozměry astronomického tělesa, které je hlavním zdrojem gravitačního pole), je vhodným přiblížením pohyb v centrálním gravitačním poli kolem hmotného středu takového tělesa. Při nezanedbatelné hmotnosti vrženého tělesa se pak hovoří o Keplerově úloze.
+
+Mgr. Vladimír Blucha (* 6. července 1931 Mokré Lazce u Opavy) je český historik, geograf, kronikář, vlastivědný pracovník a pedagog, který napsal řadu článků a několik knih o historii Krnova.
+Německé úřady ve vládním obvodě Opava v Sudetech ho v roce 1938 přejmenovaly z "Vladimíra" na "Waldemara". Na konci války, když přišla do Mokrých Lazců fronta, úplně vyhořel pronajatý domek, ve kterém Bluchovi bydleli. Tak se v červnu 1945 usadili v pohraničí v Krnově. Vladimír Blucha maturoval v roce 1950 na krnovském gymnáziu. Druhou maturitu vykonal v roce 1957 a tím získal kvalifikaci jako učitel pro 1.–5. postupný ročník. Po základní vojenské službě pracoval na ONV v Krnově, kde byl až do roku 1960 inspektorem pro kulturu. Poté dálkově vystudoval Pedagogický institut v Ostravě, obory matematika a zeměpis. V letech 1960–1970 učil na 1. ZDŠ na Dvořákově okruhu 2 a od roku 1970 do roku 1990 učil na 3. ZDŠ na Opavské ulici. Od srpna 1990 byl vedoucím Okresního pedagogického střediska v Nových Heřminovech. V letech 1965–1969 a v letech 1990–2000 byl kronikářem města Krnova. Jeho články vychází v různých novinách a časopisech. Je čestným členem Matice slezské a byl předsedou jejího krnovského odboru. Je členem Čs. společnosti geografické, Čs. společnosti archeologické a České numismatické společnosti. Je ženatý a má dceru RNDr. Lenku Bucherovou-Fišerovou (* 1964, roz. Bluchovou), Ph.D., která je vysokoškolskou učitelkou a překladatelkou chemické angličtiny.
+Nejznámější je jeho kniha "Velký požár" (2002). Žánr Velkého požáru by se dal nazvat „historický obraz“, jednotlivé kapitoly, popisující příběh jednotlivých Krnovanů v jednom zajímavém historickém období, se skládají v celkový obraz tohoto období. Kniha tak připomíná např. obrazy Hieronyma Bosche, na kterých sledujeme jednotlivé drobné scény, které dohromady tvoří zvláštní atmosféru celého výjevu.
+

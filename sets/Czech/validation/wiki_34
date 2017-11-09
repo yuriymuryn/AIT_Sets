@@ -1,0 +1,43 @@
+Tíhové zrychlení je zrychlení volného pádu těles na povrchu kosmického tělesa (například Země). Hlavní složkou tíhového zrychlení je gravitační zrychlení. Ve vztažných soustavách spojených s povrchem Země však na tělesa působí kromě gravitační síly také odstředivá síla, což je setrvačná síla vznikající v důsledku otáčení Země kolem své osy. Proto je tíhové zrychlení na rovníku menší než na pólech.
+Hodnota tíhového zrychlení na Zemi činí v naší zeměpisné šířce (49°) přibližně 9,81 m/s².
+Tíhové zrychlení se ve zrychlení padajících těles plně projeví ve vakuu, kde nepůsobí odporové síly a pád je možno považovat za volný. V atmosféře je pohyb těles brzděn odporem vzduchu.
+Působení tíhového zrychlení poprvé přesně popsal Galileo Galilei, který vyslovil a experimentálně ověřil hypotézu, že dráha tělesa padajícího k Zemi je při zanedbání odporu prostředí nebo ve vakuu přímo úměrná čtverci času a nezávisí na hmotnosti tělesa.
+Hodnota místního tíhového zrychlení závisí na geografické šířce, nadmořské výšce a nepatrně i na lokální hustotě hornin pod povrchem.
+Pro fyzikální a technické použití je vhodné stanovit univerzální standardní hodnotu. Ta se nazývá normální tíhové zrychlení, značí "g" nebo "g" a její hodnota vychází z tíhového zrychlení na 45° zeměpisné šířky u hladiny moře:
+Gravitační složka tíhového zrychlení v souladu s gravitačním zákonem klesá s druhou mocninou vzdálenosti od středu tělesa (např. Země). Pro výšky zanedbatelné vzhledem k průměru Země se "g" snižuje na jeden metr nadmořské výšky přibližně o 3×10 m/s. Tíhové zrychlení je mírně ovlivňováno i pozicí Měsíce vůči Zemi, což se projevuje např. přílivem a odlivem hladiny moře.
+Velikost tíhového zrychlení na jiných planetách a měsících je jiná než na Zemi, závisí především na hustotě tělesa, na jeho tvaru a na rychlosti jeho rotace. Například tíhové zrychlení je na Měsíci přibližně šestkrát nižší než na Zemi (tíhové zrychlení na Měsíci je přibližně 1,6236 m/s). Na Marsu má tíhové zrychlení hodnotu 3,725 m/s (což je tedy 2,6krát menší než na Zemi).
+Beztížný stav, který panuje na družicích obíhajících kolem Země, je způsoben rovností odstředivé síly způsobené oběhem a síly dané působením gravitačního pole Země. Vědci a technici uvažují o konstrukci orbitálních stanic využívajících „umělou gravitaci“, kde bude tíhové zrychlení vytvářeno rotací stanice nebo její obytné části.
+Tíhové zrychlení si můžeme definovat jako zvýšení rychlosti tělesa působením pouze gravitačních a setrvačných sil působících na povrchu kosmického tělesa za jednu sekundu při volném pádu ve vakuu. Jednotkou tíhového zrychlení je m/s. Tíhové zrychlení definujeme na konkrétním místě povrchu konkrétního kosmického tělesa, může být proměnlivé i časově. Pokud se výrazněji projevují vlivy rotace, okolních těles, nebo při nepravidelném tvaru kosmického tělesa, měli bychom tíhové zrychlení definovat jako vektor.
+Tíhové zrychlení tedy obecně závisí na
+
+Hmotný bod je bod prostoru, kterému je přiřazena hmotnost o určité velikosti. Takto definovaný hmotný bod je bezrozměrným útvarem a nemá tedy smysl hovořit o jeho deformaci nebo otáčení, ale pouze o jeho pohybu podél určité křivky, tedy o jeho posuvném pohybu.
+Hmotný bod je abstraktní náhrada za skutečné těleso (nebo jeho část), jehož "tvar" a "rozměry" nejsou pro sledovaný jev podstatné a lze je tedy zanedbat. Některé vlastnosti tělesa se přenáší i na hmotný bod, jde např. o hmotnost, polohu, rychlost, elektrický náboj apod.
+Hmotný bod je obvykle ztotožňován s těžištěm popisovaného tělesa.
+Pojem hmotného bodu se používá nejen pro tělesa malých rozměrů.
+Např. při sledování pohybu malého tělesa v gravitačním poli můžeme postupovat tak, že zanedbáme odpor vzduchu. V takovém případě působí na těleso pouze gravitační pole a vzhledem k malým rozměrům tělesa je možné jej nahradit hmotným bodem. Pokud uvažujeme s odporem vzduchu, pak musíme znát tvar pohybujícího se tělesa, neboť na něm závisí odporová síla, a v takovém případě již těleso hmotným bodem nahradit nelze.
+Jiným příkladem může být nahrazení planety obíhající kolem Slunce za hmotný bod. Pokud sledujeme pohyb jednotlivých planet ve sluneční soustavě a jestliže předpokládáme, že jednotlivé planety jsou od sebe dostatečně vzdálené a nezajímáme se o jejich rotaci a další vlastnosti, které souvisejí s tvarem a rozměry planet, pak lze planety považovat za hmotné body. Pokud se však poněkud přiblížíme a budeme sledovat např. vliv Měsíce na Zemi (slapové jevy apod.), pak nelze náhradu hmotným bodem provést.
+Často se také používá náhrada tělesa soustavou hmotných bodů (tzn. vhodně zvolené části tělesa jsou nahrazeny hmotnými body). Následné sledování sil působících mezi jednotlivými hmotnými body soustavy namáhání jednotlivých částí tělesa. Tento postup bývá využíván např. při statickém posuzování staveb.
+Pojem hmotného bodu je užitečný pro teoretickou výstavbu mechaniky. Např. pro popis makroskopických těles lze použít představu, že takové těleso je složeno z velkého množství vzájemně vázaných hmotných bodů.
+Pokud na hmotný bod nepůsobí žádné síly, označujeme jej jako volný hmotný bod. Vztažné soustavy, vzhledem ke kterým je volný hmotný bod v klidu nebo rovnoměrném přímočarém pohybu jsou inerciálními soustavami. V opačném případě se jedná o neinerciální soustavu.
+
+Trajektorie (též pohybová křivka) je geometrická čára prostorem, kterou hmotný bod nebo těleso při pohybu opisuje. Jedná se tedy o množinu všech poloh (hmotného) bodu, v nichž se může v různých časových okamžicích nacházet.
+Trajektorií může být přímka, kružnice, elipsa či jakákoliv obecná křivka. Podle tvaru trajektorie dělíme pohyb na přímočarý a křivočarý.
+Trajektorii pohybu lze vyjádřit pomocí polohového vektoru formula_1, který vyjádříme jako funkci času formula_2, tzn. formula_3.
+Tvar trajektorie je závislý na volbě vztažné soustavy.
+Délka trajektorie se nazývá dráha. Je to vzdálenost, kterou hmotný bod opíše za určitou dobu a značí se obvykle "s". Dráha je funkcí času (závisí na čase), tedy formula_4.
+Mějme např. bod na obvodu jedoucího kola. Zvolíme-li za vztažnou soustavu zemi, bude trajektorií pohybu tzv. cykloida. Pokud zvolíme soustavu spojenou např. s automobilem, ke kterému kolo patří, pak bude bod na obvodu kola vykonávat pohyb po kružnici, tj. trajektorií bude kružnice. 
+Budeme-li místo bodu na obvodu sledovat střed daného kola, pak v případě volby vztažné soustavy spojené se zemí půjde o pohyb přímočarý a trajektorií bude tedy přímka.
+
+Křivočarý (též obecný) pohyb je takový pohyb, při kterém je trajektorií obecná křivka.
+Základními charakteristikami obecného pohybu jsou poloha tělesa, jeho rychlost a zrychlení v daném čase.
+Polohu tělesa lze určit pomocí polohového vektoru formula_1, který je v takovém případě spojitou vektorovou funkcí času, což lze vyjádřit zápisem
+Obecný pohyb je charakterizován tím, že vektor rychlosti i zrychlení se s časem mění. Trajektorií je tedy prostorová křivka, po níž se těleso (hmotný bod) pohybuje s proměnlivou rychlostí a zrychlením. U tohoto pohybu může být směr zrychlení vzhledem ke směru rychlosti obecně libovolný.
+O rychlosti lze v případě obecného pohybu říci pouze to, že má směr tečny k trajektorii pohybu.
+Při křivočarém pohybu se v podstatě vždy vyskytuje zrychlení. Velikost rychlosti se však nemusí měnit, pokud se mění směr rychlosti. Příkladem takového pohybu může být kruhový pohyb.
+Zrychlení je výhodné rozložit do směru pohybu, tzn. do směru tečny k trajektorii, a do směru kolmého k pohybu, tzn. do směru normály k trajektorii. Hovoříme pak o zrychlení tečném a normálovém.
+Nutno rozlišovat pohyb bodu a pohyb tělesa. Pohyb bodu charakterizuje tvar trajektorie (čáry), kterou bod při svém pohybu opisuje: pohyb přímočarý a pohyb křivočarý. Pohyb tělesa charakterizují trajektorie nejméně dvou bodů: jsou-li to shodné křivky nebo přímky jedná se o pohyb posuvný. Jsou-li to soustředné kružnice, je to pohyb otáčivý, a pokud dva body tělesa opisují různé trajektorie - např. jeden přímku a druhý kružnici (ojnice klikového mechanizmu), jedná se o obecný pohyb tělesa.
+
+Dráha je slovo slovanského původu, označující původně (v podobě „dorga“, česky draha) cestu mezi poli, kterou se vyháněl dobytek, t. j. průhon.
+V dnešní době má například tyto významy: 
+Přenesené významy
+

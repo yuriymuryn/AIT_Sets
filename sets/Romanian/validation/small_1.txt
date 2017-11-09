@@ -1,0 +1,1 @@
+﻿Este de remarcat faptul că glissandi nu „pătrund” în durata celei de-a doua note, ele consumând, în schimb, prima durată în totalitate.
